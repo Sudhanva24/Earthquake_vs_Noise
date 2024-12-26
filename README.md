@@ -18,7 +18,9 @@ We Use deep learning Model to determine if a seismogram obtained from the feilds
 
 ## Model
 
-<img width="755" alt="Screenshot 2024-12-26 at 7 21 55 PM" src="https://github.com/user-attachments/assets/1d4d50a3-b0c8-4519-856f-7ce8f3678685" />
+<img width="999" alt="Screenshot 2024-12-26 at 7 27 39 PM" src="https://github.com/user-attachments/assets/57bd1061-abe4-46dd-835d-a826ad75c169" />
+
+
 
 ## Techniques for Optimal Result
 
